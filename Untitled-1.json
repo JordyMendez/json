@@ -1,0 +1,38 @@
+[
+    {
+        "nombre": "cristiano",
+        "apellido": "Ronaldo",
+        "edad": 36,
+        "pais de nacimiento": "portugal",
+        "ciudad": "Funchal",
+        "posicion": "Delantero",
+        "grupo sanguineo": "A+",
+        "Nacionalidad": "portugués"
+    },
+
+    {
+        "nombre":"Jonh Doe",
+        "profesion":"Programador",
+        "edad":25,
+        "lenguajes":["PHP","Javascript","Dart"],
+        "disponibilidadParaViajar":true,
+        "rangoProfesional": {
+            "aniosDeExperiencia": 12,
+            "nivel": "Senior"
+        }
+      
+    },
+
+    {
+        "nombre": "Jordy",
+        "apellido": "Chichanda",
+        "edad": 23,
+        "pais de nacimiento": "Ecuador",
+        "ciudad": "Portoviejo",
+        "posicion": "Delantero",
+        "grupo sanguineo": "A+",
+        "Nacionalidad": "Ecuatoriana"
+    }
+    
+
+]
